@@ -2,8 +2,6 @@
 
 Graphical User Interface built using React Framework to visualize Pathfinding Algorithms and Maze Generation Algorithms. Feel free to fork or download this project if you would like to try this out or use this code as the base to create your own Pathfinding Visualizer.
 
-[Check out the visualizer in action here. Experiment with the pathfinding and maze generation algorithms.](https://rohithaug.github.io/pathfinding-visualizer/)
-
 ## Sample (Dijkstra's Algorithm with Recursive Division Maze): 
 
 <p align="center">
@@ -26,9 +24,3 @@ Graphical User Interface built using React Framework to visualize Pathfinding Al
 4. Horizontal Division Maze
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). To learn React, check out the [React documentation](https://reactjs.org/).
-
-## Thank you
-
-I hope you found the project useful and interesting.
-
--- [Rohith S P](https://www.linkedin.com/in/rohithsp/)
